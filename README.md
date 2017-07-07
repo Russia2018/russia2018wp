@@ -14,4 +14,10 @@ Single Post `singular.php`
 * Font Awesome version 4.7.0 http://fontawesome.io/
 * SCSS http://sass-lang.com/
 
+## Instalasi
+
+* Download release template di dalam folder releases
+* Upload file zip melalui wordpress admin
+* Aktifkan template
+
 
